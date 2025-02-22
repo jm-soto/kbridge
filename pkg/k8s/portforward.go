@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"kbridge/pkg/ui"
+	"github.com/jm-soto/kbridge/pkg/ui"
 
 	corev1 "k8s.io/api/core/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

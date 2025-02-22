@@ -1,6 +1,6 @@
 package main
 
-import "kbridge/cmd"
+import "github.com/jm-soto/kbridge/cmd"
 
 func main() {
 	cmd.Execute()

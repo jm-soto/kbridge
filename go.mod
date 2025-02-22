@@ -1,4 +1,4 @@
-module kbridge
+module github.com/jm-soto/kbridge
 
 go 1.23.0
 

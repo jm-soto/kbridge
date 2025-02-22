@@ -5,7 +5,7 @@ A simple Kubernetes port-forwarding tool that really simplifies connecting to in
 ## Installation
 
 ```bash
-go install github.com/kbridge/kbridge@latest
+go install github.com/jm-soto/kbridge@latest
 ```
 
 ## Usage

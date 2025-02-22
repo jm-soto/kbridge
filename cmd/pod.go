@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"kbridge/pkg/k8s"
+	"github.com/jm-soto/kbridge/pkg/k8s"
 
 	"github.com/spf13/cobra"
 	corev1 "k8s.io/api/core/v1"
