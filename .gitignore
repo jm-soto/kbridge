@@ -1,35 +1,29 @@
-# Binarios compilados
-/kbridge
+# Binaries for programs and plugins
 *.exe
 *.exe~
 *.dll
 *.so
 *.dylib
+kbridge
 
-# Archivos de test
+# Test binary, built with `go test -c`
 *.test
 
-# Output de coverage
+# Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-# Archivos de dependencias
+# Dependency directories (remove the comment below to include it)
 vendor/
 
-# IDEs y editores
-.idea/
-.vscode/
+# Go workspace file
+go.work
+
+# IDE specific files
+.idea
+.vscode
 *.swp
 *.swo
-*~
 
-# Sistema operativo
+# OS specific files
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Go específico
-go.work 
+Thumbs.db 
